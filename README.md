@@ -1,1 +1,1 @@
-# shared-npm-workflow
+# Shared workflow that publish packages to duy-npm.com
